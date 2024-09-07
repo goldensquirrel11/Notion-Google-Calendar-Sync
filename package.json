@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@google-cloud/local-auth": "^2.1.0",
+    "@notionhq/client": "^2.2.15",
+    "dotenv": "^16.4.5",
+    "googleapis": "^105.0.0",
+    "typescript": "^5.5.4"
+  }
+}
